@@ -14,12 +14,13 @@ namespace contentCreator.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(UserModel model)
         {
-            if (ModelState.IsValid)
-            {
-                return RedirectToAction("Success");
-            }
+          
+            Console.WriteLine("user model name " + model.Name);
+            Console.WriteLine("user model email " + model.Email);
 
             return View(model);
         }
+
+        []
     }
 }

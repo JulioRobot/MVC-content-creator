@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\views\\_createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:views\\_createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B08E468D-E0EE-475D-8F97-62DB2A48799B}|contentCreator.csproj|d:\\julio\\belajar\\asp_net\\int-content-creator\\contentcreator\\views\\home\\viewtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,20 +41,20 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 189,
+          "DockedWidth": 168,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_CreateUser.cshtml",
-              "DocumentMoniker": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Views\\_CreateUser.cshtml",
-              "RelativeDocumentMoniker": "Views\\_CreateUser.cshtml",
-              "ToolTip": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Views\\_CreateUser.cshtml",
-              "RelativeToolTip": "Views\\_CreateUser.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "DocumentIndex": 2,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Views\\Home\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateUser.cshtml",
+              "ToolTip": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Views\\Home\\CreateUser.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T06:22:42.219Z",
+              "WhenOpened": "2025-05-26T09:09:58.952Z",
               "EditorCaption": ""
             },
             {
@@ -57,14 +65,14 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T14:48:12.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -77,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ViewTest.cshtml",
               "DocumentMoniker": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Views\\Home\\ViewTest.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\ViewTest.cshtml",
@@ -91,12 +99,12 @@
           ]
         },
         {
-          "DockedWidth": 211,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 232,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -109,15 +117,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-16T14:44:01.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:40:36.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Julio\\BELAJAR\\ASP_NET\\INT-CONTENT-CREATOR\\contentCreator\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:43:22.519Z",
               "EditorCaption": ""
             }
           ]
