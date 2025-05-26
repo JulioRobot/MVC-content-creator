@@ -21,6 +21,14 @@ namespace contentCreator.Controllers
             return View(model);
         }
 
-        []
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public void TestCreate(string name, string email)
+        {
+            Console.WriteLine("user model name " + name);
+            Console.WriteLine("user model email " + email);
+
+            
+        }
     }
 }
